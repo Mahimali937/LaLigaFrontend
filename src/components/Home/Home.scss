@@ -94,6 +94,14 @@
         }
     }
 }
+@media screen and (max-width: 1200px) {
+    .image-zone {
+        display: none;
+    }
+    .image-zone img {
+        display: none;
+    }
+}
 @media screen and (max-width: 1000px){
     
     .home-page{
